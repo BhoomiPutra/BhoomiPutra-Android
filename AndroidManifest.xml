@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhumiputra"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+       <uses-permission android:name="android.permission.INTERNET"/>
+       <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        
+        
+       
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+ <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="AddressActivity"></activity>
+        <activity android:name="AssetsActivity"></activity>
+        <activity android:name="FarmerHomeActivity"></activity>
+        <activity android:name="FarmerLoginActivity"></activity>
+ 	<activity android:name="tools.ToolAddressActivity"></activity>
+        <activity android:name="tools.ToolManpowerAssetActivity"></activity>
+        <activity android:name="tools.ToolRegisterActivity"></activity>
+        <activity android:name="tools.ToolsAssetsActivity"></activity>
+        <activity android:name="tools.ToolsManpowerHomeActivity"></activity>
+        <activity android:name="tools.ToolsManpowerLoginActivity"></activity>
+        <activity android:name="vendor.SellerActivity"></activity>
+        <activity android:name="vendor.VendorAddressActivity"></activity>
+        <activity android:name="vendor.VendorAssetsActivity"></activity>
+        <activity android:name="vendor.VendorBuyerAssetsActivity"></activity>
+        <activity android:name="vendor.VendorHomeActivity"></activity>
+        <activity android:name="vendor.VendorLoginActivity"></activity>
+        <activity android:name="vendor.VendorRegisterActivity"></activity>
+        <activity android:name="vendor.VendorSellerAssetsActivity"></activity>
+        <activity android:name="RegisterActivity"></activity>
+        
+       
+      
+    </application>
+
+</manifest>

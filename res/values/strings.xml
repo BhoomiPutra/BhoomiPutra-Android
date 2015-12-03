@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BhumiPutra</string>
+    <string name="action_settings">Settings</string>
+   
+<string name="enter_name">Enter name</string>
+
+<string name="enter_password">Enter Password</string>
+<string name="enter_mobile">Enter Mobile</string>
+<string name="state">Select State</string>
+<string name="district">District</string>
+<string name="tehsil">Tehsil</string>
+<string name="village">Village</string>
+<string name="houseno">HouseNo And Block</string>
+<string name="pincode">Pincode</string>
+<string name="image">Select Image</string>
+<string name="gallary">Gallary</string>
+<string name="continue1">Continue</string>
+<string name="land">Formable Land</string>
+<string name="cattles">Do You have Cattles</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="choosecattle">Choose and Add all your cattles one by one</string>
+<string name="addcattles">Add Cattles</string>
+<string name="register">Register Now</string>
+
+<string name="farmer_login">Login as Farmer</string>
+<string name="vendor_login">Login as Vendor</string>
+<string name="tool_and_service_login">Login as Tool and service Provider</string>
+<string name="choose_language">Please Select your language</string>
+<string name="farmer_login_greet">Jai Kisan !</string>
+
+
+<string name="Enter_Your_Mobile_No">Enter Your Mobile No</string>
+<string name="Enter_Your_Password">Enter Your Password</string>
+
+<string-array name="language_selector">
+    <item > हिन्दी</item>
+    <item >English</item>
+    
+    
+    
+</string-array>
+
+
+<string-array name="farmer_navigation_drawer_item_array">
+    <item >Home</item>
+    <item >Buy</item>
+    <item>Hire Tools or MenPower</item>
+    <item >Sale Crop</item>
+    
+   <item>Logout</item>	
+	</string-array>
+	
+<string-array name="tools_navigation_drawer_item_manpower_array">
+   <item >Home</item>
+   <item >Add Manpower Data</item>
+    <item >Add Tools Data</item>
+   <item>Logout</item>	
+	</string-array>
+
+<string-array name="vendor_navigation_drawer_item_array">
+   <item >Home</item>
+   <item >Add Buyer Data</item>
+    <item >Add Seller Data</item>
+   <item>Logout</item>	
+	</string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+<string name="name">Name</string>
+<string name="mobileno">Mobile No</string>
+<string name="notification">Notification</string>
+<string name="assets">Assets</string>
+
+
+
+
+<string name="tools_and_manpower_login">Tools And Manpower Login</string>
+
+<string name="choosechoice">Choose Your Choice</string>
+<string name="tools">TOOLS</string>
+<string name="manpower">MANPOWER</string>
+<string name="both">BOTH</string>
+<string name="login">Login</string>
+
+<string name="home">Home</string>
+<string name="submit">Submit</string>
+<string name="createaccount">New User Create An Account</string>
+
+
+
+<string name="selecttools">Select Tools</string>
+<string name="count">Count</string>
+<string name="doyouhavemanpower">Do You Have Manpower ?</string>
+<string name="enter_no_of_manpower">Enter No Of Manpower</string>
+<string name="select_manpower">Select Category Of Manpower</string>
+
+
+<string-array name="manpower_array" >
+    <item>Agricultural Equipments Operature</item>
+    <item>Harvester Machine operature</item>
+    <item>Grain Farm Worker</item>
+    <item>Dairy Farm Worker</item>
+     <item>Poultry Farm Worker</item>
+      <item>Vegetable Farm Worker</item>
+</string-array>
+
+
+
+
+
+
+
+
+	
+
+
+<string-array name="tools_assets_array">
+    <item >Cultivator</item>
+    <item >Tractor</item>
+    <item >Rotary Cultivator</item>
+    <item >Animal Drawn Cultivator</item>
+     <item >Bottom Plough</item>
+      <item >Chisel Plough</item>
+       <item >Reversible Plough</item>
+        <item >Disc Harrow</item>
+         <item >Puddler</item>
+          <item >Groundnut Thresher</item>
+           <item >Combine Harvester</item>
+            <item >Paddy Harvester</item>
+             <item >Sugar Cane Harvester</item>
+              <item >Wheat Harvester</item> 
+              <item >Potato Digger</item>
+              <item>Seed Driller</item>
+              <item>Potato Planter</item>
+              <item>Hand Sprayer</item>
+              <item>Rocker Sprayer</item>
+              <item>Mini Power Sprayer</item>
+              </string-array>
+              
+
+
+
+    
+    <string-array name="state_array" >
+           <item>Andhra Pradesh</item>
+           <item>Arunachal Pradesh</item>
+           <item>Assam</item>
+           <item>Bihar</item>
+            <item>Chhattisgarh</item>
+           <item>Goa</item>
+           <item>Gujarat</item>
+           <item>Haryana</item>
+           <item>Himachal Pradesh</item>
+           <item>Jammu And Kashmir</item>
+             <item>Jharkhand</item>
+               <item>Karnataka</item>
+                 <item>Kerala</item>
+                   <item>Madhya Pradesh</item>
+                     <item>Maharastra</item>
+                       <item>Manipur</item>
+                         <item>Meghalaya</item>
+                           <item>Mizoram</item>
+                             <item>Nagaland</item>
+                               <item>Orrissa</item>
+                                 <item>Punjab</item>
+                                  <item>Rajasthan</item>
+                                    <item>Sikkim</item>
+                                      <item>Tamil Nadu</item>
+                                        <item>Telangana</item>
+                                          <item>Tripura</item>
+                                            <item>Uttar Pradesh</item>
+                                              <item>Uttaranchal</item>
+                                               <item>West Bengal</item>
+                                               </string-array>
+
+
+
+<string name="vendor">Vendor</string>
+<string name="select_items">Select Item</string>
+<string name="iname">Enter Item Name</string>
+<string name="price">Item Price</string>
+<string name="add">Add</string>
+
+
+<string-array name="vendor_array" >
+    <item>Seed</item>
+    <item>Manure</item>
+    <item>Pesticides</item>
+    <item>Tools</item>
+</string-array>
+
+    
+    
+
+
+	<string-array name="item_array" >
+	    
+	    <item>Paddy</item>
+	    <item>Wheat</item>
+	    <item>Vegetables</item>
+	    <item>Pulse</item>
+	</string-array>
+
+	<string-array name="itemmanure_array">
+	    <item>Uria</item>
+	    <item>Potash</item>
+	    <item>Sulphur</item>
+	</string-array>
+	<string-array name="itempesticides_array">
+	    <item>DDT</item> 
+	    <item>Nephthol</item>
+	    <item>Diclofop</item>
+	</string-array>
+
+
+
+	<string name="choose">Choose Your Category</string>
+	<string name="buyer">Buyer</string>
+	<string name="seller">Seller</string>
+
+	
+<string name="selectcropes">Select Cropes</string>
+<string name="selectproduct">Select Product</string>
+
+
+  
+    
+   
+  
+    <string-array name="buyercrop_array" >
+        <item>Paddy</item>
+        <item>Wheat</item>
+        <item>Vegetable</item>
+        <item>Pulse</item>  
+			 </string-array>
+	 <string-array name="buyercrop_paddy_array" >
+       <item>Basmati</item>
+	    <item>Rajlaxmi</item>
+	    <item>Sonam</item>
+	    <item>404Hybrid</item>
+     </string-array>
+      <string-array name="buyercrop_wheat_array" >
+          
+		    <item>Amrok</item>
+		    <item>Babbler</item>
+		    <item>Beafort</item>
+		    <item>Camm</item>
+    			</string-array>
+    
+          <string-array name="buyercrop_vegetable_array" >
+              <item>Cowpea</item>
+			    <item>Fieldpea</item>
+			    <item>Gardenpea</item>
+			    <item>Pak Choi</item>
+			    <item>King Slaw</item>
+                 </string-array>
+                 
+	           <string-array name="buyercrop_pulse_array" >
+	                <item>Broade Bean</item>
+				     <item>Bengal Gram</item>
+				      <item>Black Bean</item>
+				       <item>Lima Bean</item>
+	                 </string-array>
+<string name="rate">Rate/Hour</string>
+<string name="ratekg">Rate/Kg.</string>
+<string name="rateqn">Rate/Quintal</string>
+
+<string-array name="cattle_array">
+    <item>Cow</item>
+    <item>Ox</item>
+    <item>Buffalo</item>
+    <item>Goat</item>
+    <item>Sheep</item>
+</string-array>
+<string name="acre">Acre</string>
+
+
+ <string-array name="tools_manpower_array">
+   <item >होम</item>
+   <item > श्रमिक  जोड़ें</item>
+    <item >उपकरण जोड़ें</item>
+   <item>लॉग आउट करे</item>	
+	</string-array>
+	
+ <string-array name="tool_manpower_hire_array">
+     
+     <item>Tools</item>
+     <item>Manpower</item>
+ </string-array>
+
+<string name="display">Display</string>
+<string name="selectlocation">Select Location</string>
+<string name="addnew">Add New</string>
+
+
+</resources>

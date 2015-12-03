@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">भूमिपुत्र</string>
+    <string name="action_settings">सेटिंग्स</string>
+
+<string name="enter_name">नाम दर्ज करे</string>
+
+<string name="enter_password">पासवर्ड डाले</string>
+<string name="enter_mobile">मोबाइल नंबर</string>
+<string name="state"> राज्य</string> 
+<string name="district">जिला</string>
+<string name="tehsil">तहसील</string>
+<string name="village">गाँव</string>
+<string name="houseno">मकान संख्या</string>
+<string name="pincode">पिन कोड</string>
+<string name="image">चित्र चुनें </string>
+<string name="gallary">गैलरी</string>
+<string name="continue1">चालू रखे</string>
+
+
+<string name="land">खेती योग्य भूमि</string>
+<string name="cattles">क्या आपके पास पशु है</string>
+<string name="yes">हाँ</string>
+<string name="no">नहीं</string>
+<string name="choosecattle">एक-एक कर आपके पशु चुनें</string>
+<string name="addcattles">पशु जोड़े</string>
+<string name="register">अब रजिस्टर करे</string>
+<string name="farmer_login">किसान के लिये लॉग इन</string>
+<string name="vendor_login">वेंडर के लिये लॉग इन</string>
+<string name="tool_and_service_login">उपकरण और सेवाएँ सप्लायर के लिये लॉग इन</string>
+<string name="choose_language">अपनी भाषा चुने</string>
+<string name="farmer_login_greet">जय किसान !</string>
+
+
+<string name="Enter_Your_Mobile_No">अपना मोबाईल नम्बर डाले</string>
+<string name="Enter_Your_Password">अपना पासवर्ड चुनें</string>
+<string-array name="farmer_navigation_drawer_item_array">
+    <item >होम</item>
+    <item >खरीदे</item>
+    <item>उपकरण और श्रमिक भाड़े पर ले</item>
+    <item >फ़सल बेचे</item>
+   
+   <item>लॉग आउट करे</item>	
+	</string-array>
+	
+
+    <string name="drawer_open">नेविगेशन डा्वर  खोले</string>
+    <string name="drawer_close">नेविगेशन डा्वर बंद करे</string>
+    <string name="action_websearch">वेब खोजे</string>
+    <string name="app_not_available">क्षमा करे, वेब पेज उपलब्ध नही है </string>
+
+<string name="name">नाम</string>
+<string name="mobileno">मोबाईल नम्बर</string>
+<string name="notification">सूचना</string>
+<string name="assets">संपत्ति</string>
+
+<string name="tools_and_manpower_login">उपकरण और श्रमिक लॉग इन</string>
+
+<string name="choosechoice">अपना विकल्प चुनें</string>
+<string name="tools">उपकरण</string>
+<string name="manpower">श्रमिक</string>
+<string name="both">दोनों</string>
+<string name="login">लॉग इन</string>
+
+<string name="home">होम</string>
+<string name="submit">सबमिट</string>
+<string name="createaccount">नए उपयोगकर्ता खाता खोले</string>
+
+
+<string name="selecttools">उपकरण चुनें</string>
+<string name="count">संख्या</string>
+<string name="doyouhavemanpower">क्या आपके पास श्रमिक है ?</string>
+<string name="enter_no_of_manpower">श्रमिक की संख्या डालें </string>
+<string name="select_manpower">श्रमिकों  की श्रेणी चुनें</string>
+
+<string-array name="manpower_array" >
+    <item>कृषि उपकरण ऑपरेटर</item>
+    <item>फ़सल काटने की मशीन का ऑपरेटर</item>
+    <item>कृषि के श्रमिक</item>
+    <item>डेयरी के श्रमिक</item>
+     <item>पोल्ट्री के श्रमिक</item>
+      <item>सब्ज़ियों के श्रमिक</item>
+</string-array>
+
+<string name="rate">दर</string>
+
+ <string-array name="tools_manpower_array">
+   <item >होम</item>
+   <item > श्रमिक  जोड़ें</item>
+    <item >उपकरण जोड़ें</item>
+   <item>लॉग आउट करे</item>	
+	</string-array>
+	
+	
+	<string-array name="tools_assets_array">
+    <item >कल्टीवेटर</item>
+    <item >ट्रैक्टर</item>
+    <item >रोटरी कल्टीवेटर</item>
+    <item >पशु खींचा कल्टीवेटर</item>
+     <item >आधार हल</item>
+      <item >छेनी हल</item>
+       <item >प्रतिवर्ती हल</item>
+        <item >डिस्क हैरो</item>
+         <item > चक्रीय हैरो </item>
+          <item >मूंगफली थ्रेशर</item>
+           <item >संयुक्तक फ़सल काटने की मशीन</item>
+            <item >धान काटने की मशीन</item>
+             <item >गन्ना काटने की मशीन</item>
+              <item >गेहूँ  काटने की मशीन</item> 
+              <item >आलू ड्रिलर</item>
+              <item>बीज बोने की मशीन </item>
+              <item>आलू बोने की मशीन</item>
+              <item>हस्त स्प्रेयर</item> 
+              <item>घुमाव स्प्रेयर</item>
+              <item>छोटा स्प्रेयर</item>
+              </string-array>
+              
+	
+
+ <string-array name="state_array" >
+      <item>आंध्र प्रदेश </item>
+       <item>अरुणाचल प्रदेश</item>
+        <item>असम</item>
+         <item>बिहार</item>
+          <item>छत्तीसगढ़ </item>
+           <item>गोवा</item>
+            <item>गुजरात</item>
+             <item>हरियाणा </item>
+              <item>हिमाचल प्रदेश </item>
+               <item>जम्मु और कश्मीर</item>
+                <item>झारखण्ड</item>
+                 <item>कर्नाटक</item>
+                  <item>केरल </item>
+                   <item>मध्य प्रदेश </item>
+                    <item>महारास्ट्र</item>
+                     <item>मणिपुर</item>
+                      <item>मेघालय</item>
+                       <item>मिजोरम</item>
+                        <item>नागालैंड</item>
+                         <item>उड़ीसा</item>
+                          <item>पंजाब</item>
+                           <item>राजस्थान </item>
+                            <item>सिक्किम</item>
+                             <item>तमिल नाडु</item>
+                              <item>तेलंगाना </item>
+                               <item>त्रिपुरा </item>
+                                <item>उत्तर प्रदेश </item>
+                                <item >उत्तराँचल</item>
+                                <item>पश्चिम बंगाल</item>
+                                </string-array>
+                                
+
+
+
+<string name="vendor"> विक्रेता</string>
+<string name="select_items">आइटम चुनें</string>
+<string name="iname">आइटम का नाम चुनें</string>
+<string name="price">आइटम की कीमत</string>
+<string name="add">जोड़ें</string>
+
+
+<string-array name="vendor_array" >
+    <item>बीज</item>
+    <item>खाद</item>
+    <item>कीटनाशक</item>
+    <item>उपकरण</item>
+</string-array>
+
+
+	<string-array name="item_array" >
+	    
+	    <item>धान</item>
+	    <item>गेहूँ</item>
+	    <item> सब्जियाॅ</item>
+	    <item>दाल</item>
+	</string-array>
+
+	<string-array name="itemmanure_array">
+	    <item>यूरिया</item>
+	    <item>पोटाश</item>
+	    <item>गंधक</item>
+	</string-array>
+	<string-array name="itempesticides_array">
+	    <item>डीडीटी</item> 
+	    <item>नैपथाल</item>
+	    <item>डाईक्लोफॉप</item>
+	</string-array>
+
+
+
+	<string name="choose"> अपनी श्रेणी चुनें</string>
+	<string name="buyer">खरीददार</string>
+	<string name="seller">विक्रेता</string>
+
+	
+<string name="selectcropes">फ़सल चुनें</string>
+<string name="selectproduct">उत्पाद चुनें</string> 
+ 
+ 
+
+
+
+<string-array name="buyercrop1_array" >
+    <item>बासमती</item>
+    <item>राजलक्ष्मी</item>
+    <item>सोनम</item>
+    <item>संकर</item>
+    <item>अमरोक</item>
+    <item>गयंगा</item>
+    <item>ब्यूफोर्ट</item>
+    <item>काम</item>
+    <item>लोबिया</item>
+    <item>फील्ड मटर</item>
+    <item>मटर</item>
+    <item>पाक चोय</item>
+    <item>राजा सलाय</item>
+    <item>बाकला</item>
+     <item>बंगाल चना</item>
+      <item>काली बीन</item>
+       <item>सेम फली</item>
+    </string-array>
+
+              
+<string-array name="buyercrop_array" >
+	    
+	    <item>धान</item>
+	    <item>गेहूँ</item>
+	    <item> सब्जियाॅ</item>
+	    <item>दाल</item>
+	</string-array>
+
+<string-array name="buyercrop_paddy_array" >
+        <item>बासमती</item>
+    <item>राजलक्ष्मी</item>
+    <item>सोनम</item>
+    <item>संकर</item>
+     </string-array>
+     
+
+  <string-array name="buyercrop_wheat_array" >
+          
+		    <item>अमरोक</item>
+    <item>गयंगा</item>
+    <item>ब्यूफोर्ट</item>
+    <item>काम</item>
+    			</string-array>
+    			
+   <string-array name="buyercrop_vegetable_array" >
+              <item>लोबिया</item>
+    <item>फील्ड मटर</item>
+    <item>मटर</item>
+    <item>पाक चोय</item>
+    <item>राजा सलाय</item>
+                 </string-array>
+                  <string-array name="buyercrop_pulse_array" >
+	                <item>बाकला</item>
+     <item>बंगाल चना</item>
+      <item>काली बीन</item>
+       <item>सेम फली</item>
+	                 </string-array>
+	                 
+      <string-array name="cattle_array">
+    <item>गाय</item>
+    <item>बैल</item>
+    <item>भैंस</item>
+    <item>बकरा</item>
+    <item>भेड़</item>
+</string-array>
+<string name="acre">एकड़</string>
+
+ <string-array name="tool_manpower_hire_array">
+     
+     <item>उपकरण</item>
+     <item>श्रमिक</item>
+ </string-array>
+ <string-array name="vendor_navigation_drawer_item_array">
+   <item >Home</item>
+   <item >Buy</item>
+    <item >sell</item>
+   <item>Logout</item>	
+	</string-array>
+ 
+</resources>

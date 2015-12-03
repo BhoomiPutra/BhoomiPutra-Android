@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff"
+    android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/farmer_login_greet"
+        android:textAppearance="?android:attr/textAppearanceLarge" 
+         android:layout_marginLeft="5dp"
+         android:layout_marginTop="40dp"
+        />
+
+
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/Enter_Your_Mobile_No" 
+        android:layout_marginTop="20dp">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/Enter_Your_Password"
+        android:inputType="textPassword" 
+          android:layout_marginTop="20dp">
+       </EditText>
+
+    <LinearLayout
+          android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/farmer_login" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+             />
+
+    </LinearLayout>
+
+</LinearLayout>

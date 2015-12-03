@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     xmlns:android="http://schemas.android.com/apk/res/android">
+     
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+     android:layout_margin="5dp">
+
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:layout_margin="5dp">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/state" />
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+    
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:layout_margin="5dp">
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/district"
+         />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+
+/>
+</LinearLayout>
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:layout_margin="5dp">
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tehsil" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+</LinearLayout>
+ <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:layout_margin="5dp">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/village" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+</LinearLayout>
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:layout_margin="5dp">
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/houseno" />
+
+   
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+    </LinearLayout>
+    
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+     android:layout_margin="5dp">
+
+ <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pincode" />
+
+   
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+
+</LinearLayout>
+ <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/choosechoice" />
+   <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="5dp" >
+    
+       
+       <RadioGroup 
+	    android:id="@+id/radioGroup1"
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:orientation="horizontal"
+	    >
+    <RadioButton
+        android:id="@+id/radioButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tools"/>
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/manpower" />
+     <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/both" />
+     </RadioGroup>
+</LinearLayout>
+<Button
+    android:id="@+id/button1"
+    android:layout_width="132dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/continue1" />
+</LinearLayout>
+</ScrollView>
